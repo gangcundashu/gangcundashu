@@ -1,4 +1,10 @@
-## Hi there 👋
+## 港村大叔👋
+
+## 我是谁？
+一个YouTuber
+一个奋斗不止的人
+一个想要出书的人
+想了解我更多看看我的油管频道把吧———— **
 
 <!--
 **gangcundashu/gangcundashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
