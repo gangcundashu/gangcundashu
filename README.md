@@ -1,4 +1,6 @@
-# 港村大叔👋
+# About me
+## 港村大叔👋
+
 
 ## 我是谁？
 一个YouTuber<br>
@@ -12,16 +14,16 @@
 ### 看电影
 ### 旅游
 
+## 我的工作
+一个part time youtuber<br>
+一个 IT fans <br>
+[港村大叔爱吹水](https://www.youtube.com/@HKUCharles)
 <!-- 
 [港村大叔爱吹水](www.youtube.com/@HKUCharles)
 [港村大叔爱吹水|CharlesTalkShow](www.youtube.com/@HKUCharles)
 [港村大叔爱吹水](https://www.youtube.com/@HKUCharles "看了还想看"）
 -->
 
-<!--
-**gangcundashu/gangcundashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
