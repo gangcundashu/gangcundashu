@@ -11,7 +11,8 @@
 
 
 ### 余杭臭宝
-![杭州自來水事件](https://github.com/gangcundashu/gangcundashu/blob/main/%E6%B7%B1%E5%9C%B3%20-%202025-07-19T171232.950.png)
+[![杭州自來水事件](https://github.com/gangcundashu/gangcundashu/blob/main/%E6%B7%B1%E5%9C%B3%20-%202025-07-19T171232.950.png)]([https://youtu.be/VIDEO_ID](https://youtu.be/o_vMqc-TFnk?si=38yTF2JqXdiZ2dgC))
+
 
 ## 为什么要做YouTube？
 ## 我的爱好
