@@ -10,6 +10,9 @@
 想了解我更多看看我的油管频道吧: [港村大叔爱吹水](https://www.youtube.com/@HKUCharles)
 
 
+### 余杭臭宝
+![杭州自來水事件](https://github.com/gangcundashu/gangcundashu/blob/main/%E6%B7%B1%E5%9C%B3%20-%202025-07-19T171232.950.png)
+
 ## 为什么要做YouTube？
 ## 我的爱好
 ### 看电影
