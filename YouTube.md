@@ -6,6 +6,6 @@
 
 原视频:美国卖酱香饼的小唐当街被捕|在美生存宝典?卖大饼?|女徒弟举报?城管执法?|走线|黑工<br>
 
-[![原视频:美国卖酱香饼的小唐当街被捕|在美生存宝典?卖大饼?|女徒弟举报?城管执法?|走线|黑工](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/dQw4w9WgXcQ)
+[![原视频:美国卖酱香饼的小唐当街被捕|在美生存宝典?卖大饼?|女徒弟举报?城管执法?|走线|黑工](https://github.com/gangcundashu/gangcundashu/blob/main/%E6%B7%B1%E5%9C%B3%20-%202025-07-20T150805.146.png)](https://youtu.be/wD3wkiLyYXo)
 
 [原视频:美国卖酱香饼的小唐当街被捕|在美生存宝典?卖大饼?|女徒弟举报?城管执法?|走线|黑工](https://youtu.be/wD3wkiLyYXo)
