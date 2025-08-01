@@ -21,9 +21,9 @@
 ### 看电影
 ### 旅游
 
-## 我的工作
-一个part time youtuber<br>
-一个 IT fans <br>
+## My Job
+A part time youtuber<br>
+A IT fans <br>
 [港村大叔爱吹水](https://www.youtube.com/@HKUCharles)
 <!-- 
 [港村大叔爱吹水](www.youtube.com/@HKUCharles)
@@ -31,7 +31,7 @@
 [港村大叔爱吹水](https://www.youtube.com/@HKUCharles "看了还想看"）
 -->
 
-
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
